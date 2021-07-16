@@ -1,0 +1,31 @@
+p {
+  color: red;
+  font-size: 30px;
+  text-align: center;
+  }
+
+html {
+  background-color: #00539F;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: antiquewhite;
+  border: 5px solid black;
+  padding: 0 20px 20px 20px;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+
+img[src] {
+  display: block;
+  width: 100px;
+  height: 100px;
+}
